@@ -122,6 +122,11 @@
 	background-size:cover;
 }
 
+.item5 .sl-slide-inner {
+	background: url('../images/slider/MotiveMining.png') top left no-repeat;
+	background-size:cover;
+}
+
 .sl-slider h2 {	
 	margin: 0;
 	position: relative;
